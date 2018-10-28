@@ -3,6 +3,6 @@ public class teacher {
         System.out.println("你好");
     }
     public void test(){
-        System.out.println("");
+        System.out.println("hello");
     }
 }
