@@ -5,6 +5,6 @@ public class teacher {
     public void test(){
         System.out.println("hello world");
         System.out.println("demo");
-        System.out.println("tes");
+        System.out.println("test1");
     }
 }
